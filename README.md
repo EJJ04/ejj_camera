@@ -1,3 +1,5 @@
+## BIG CREDIT TO https://github.com/Project-Sloth FOR THE ORIGINAL SCRIPT
+
 # ps-camera
 The ps-camera script allows you to capture images throughout the city, serving as a tool for gathering evidence or simply snapping enjoyable photos!
 
