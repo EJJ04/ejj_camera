@@ -9,6 +9,6 @@ ox_inventory
 		label = 'Image',
 		weight = 500,
 		client = {
-			export = 'ps-camera.photo'
+			export = 'ejj_camera.photo'
 		},
 	},
