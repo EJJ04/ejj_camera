@@ -1,3 +1,5 @@
+# THIS IS A ESX RELEASE FOR PS CAMERA THAT WORKS WITH QBCORE
+
 ## BIG CREDIT TO https://github.com/Project-Sloth FOR THE ORIGINAL SCRIPT
 
 # ps-camera
