@@ -1,0 +1,14 @@
+ox_inventory
+
+	['camera'] = {
+		label = 'Camera',
+		weight = 1000,
+	},
+
+	['photo'] = {
+		label = 'Image',
+		weight = 500,
+		client = {
+			export = 'ps-camera.photo'
+		},
+	},
